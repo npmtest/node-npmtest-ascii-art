@@ -1,6 +1,6 @@
 # npmtest-ascii-art
 
-#### test coverage for  [ascii-art (v1.4.2)](https://github.com/khrome/ascii-art)  [![npm package](https://img.shields.io/npm/v/npmtest-ascii-art.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-ascii-art) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-ascii-art.svg)](https://travis-ci.org/npmtest/node-npmtest-ascii-art)
+#### basic test coverage for  [ascii-art (v1.4.2)](https://github.com/khrome/ascii-art)  [![npm package](https://img.shields.io/npm/v/npmtest-ascii-art.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-ascii-art) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-ascii-art.svg)](https://travis-ci.org/npmtest/node-npmtest-ascii-art)
 
 #### Ansi codes, figlet fonts, and ascii art. 100% JS
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-ascii-art/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-ascii-art/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-ascii-art/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-ascii-art/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-ascii-art/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-ascii-art/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-ascii-art/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-ascii-art/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-ascii-art/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-ascii-art/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-ascii-art/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-ascii-art/build/coverage.html/index.html)
 
